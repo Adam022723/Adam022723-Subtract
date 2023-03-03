@@ -1,5 +1,6 @@
 
-public class Lab {
+public class Lab 
+{
     /**
      * Let's say we're building a calculator app. We now want to subtract a decimal number from another decimal number.
      *
@@ -14,7 +15,8 @@ public class Lab {
      * @param b some decimal number
      * @return a minus b
      */
-    public double sub(double a, double b){
-        return 0;
+    public double sub(double a, double b)
+    {
+        return(a - b);
     }
 }
